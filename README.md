@@ -1,6 +1,6 @@
 # Dawei (David) Yan
 
-PhD in Civil Engineering | FRP–Concrete Composite Structures | Experiments, Modeling, and Design
+PhD in Civil/Structural Engineering | FRP–Concrete Composite Structures | Prestressed Concrete Structures | Experiments, Modeling, and Design
 
 📍 Shanghai, China  
 📧 1551114david@gmail.com  
@@ -12,7 +12,8 @@ PhD in Civil Engineering | FRP–Concrete Composite Structures | Experiments, Mo
 
 - FRP–Concrete composite structures
 - FRP–UHPC hybrid beams
-- Shear connectors in composite structures
+- steel-concrete composite structures
+- Shear connectors
 - Time-dependent behavior of prestressed structures
 - Structural experiments and design-oriented research
 - Finite element modeling of composite structures
