@@ -1,4 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidInD)
 # Dawei (David) Yan
 
 PhD in Civil/Structural Engineering | FRP–Concrete Composite Structures | Prestressed Concrete Structures | Experiments, Modeling, and Design
